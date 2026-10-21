@@ -7,6 +7,12 @@
       "fr": "Égaliseur (Auto, préréglages, basses/médiums/aigus). Son qui te suit en 3D avec ton propre volume. Volume partagé en multi. ◄◄ sur la télé.",
       "en": "Equalizer (Auto, presets, bass/mids/treble). Follow sound in 3D with your own volume. Shared volume in multiplayer. ◄◄ on the TV."
     },
+    "QuickDelivery": {
+      "version": "1.9.8",
+      "nexus": "https://www.nexusmods.com/schedule1/mods/2924?tab=description",
+      "fr": "Première version : appli de livraison dans le téléphone. Tous les magasins d'un coup d'œil, « Commander ce qui manque » en un clic, file d'attente, livraison Rapide / Express, mode auto, armes et vêtements en option.",
+      "en": "First release: delivery app on the phone. Every shop at a glance, one-click \"Order what's missing\", waiting line, Fast / Express delivery, auto mode, optional arms and clothes."
+    },
     "SmartPhone": {
       "version": "1.10.6",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2895?tab=description",
