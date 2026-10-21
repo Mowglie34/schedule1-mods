@@ -8,10 +8,10 @@
       "en": "Equalizer (Auto, presets, bass/mids/treble). Follow sound in 3D with your own volume. Shared volume in multiplayer. ◄◄ on the TV."
     },
     "QuickDelivery": {
-      "version": "1.9.9",
+      "version": "1.10.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2924?tab=description",
-      "fr": "Taille de base 55 % et bouton « Reset ». Options qui défilent (la taille était coupée dans certaines langues). Le gros bouton du téléphone ferme l'appli.",
-      "en": "Default size 55% and \"Reset\" button. Options scroll (app size was cut off in some languages). The phone's big button closes the app."
+      "fr": "Nouveau : réappro « Dès qu'il manque quelque chose » (chaque heure du jeu, à partir d'un minimum d'objets), vitesse du réappro au choix, taille de base 40 %, bouton « Reset », Options qui défilent, le gros bouton du téléphone ferme l'appli.",
+      "en": "New: \"As soon as something is missing\" restock (every in-game hour, from a minimum number of items), restock speed of your choice, default size 40%, \"Reset\" button, scrolling Options, the phone's big button closes the app."
     },
     "SmartPhone": {
       "version": "1.10.6",
