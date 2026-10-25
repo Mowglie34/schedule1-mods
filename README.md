@@ -7,6 +7,7 @@ Schedule I mods by **Mowglie34** (MelonLoader).
 |---|---|---|
 | **SmartPhone** | [Nexus](https://www.nexusmods.com/schedule1/mods/2895) | Écran d'accueil du téléphone façon smartphone · Smartphone-style phone home screen |
 | **QuickDelivery** | [Nexus](https://www.nexusmods.com/schedule1/mods/2924) | Appli de livraison dans le téléphone · Delivery app on the phone |
+| **StyleUp** | [Nexus](https://www.nexusmods.com/schedule1/mods/2981) | Cabine d'essayage, garde-robe, miroir et tatouages · Fitting room, wardrobe, mirror and tattoos |
 | **JukeTV** | [Nexus](https://www.nexusmods.com/schedule1/mods/2888) | Jukebox, radios et TV · Jukebox, radios and TV |
 | **Traduction FR** | [Nexus](https://www.nexusmods.com/schedule1/mods/800) | Traduction française du jeu (XUnity.AutoTranslator) · French translation of the game |
 

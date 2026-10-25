@@ -24,6 +24,12 @@
       "nexus": "https://www.nexusmods.com/schedule1/mods/800?tab=description",
       "fr": "Jour de nouveau affiché sur le téléphone, noms des employés plus traduits, traduction automatique coupée (seul le fichier FR est utilisé). Nouveau : avis de mise à jour.",
       "en": "Day shown again on the phone, employee names no longer translated, automatic translation turned off (only the French file is used). New: update notice."
+    },
+    "StyleUp": {
+      "version": "1.0.0",
+      "nexus": "https://www.nexusmods.com/schedule1/mods/2981?tab=description",
+      "fr": "Première version : cabine d'essayage, tenues, vêtements des PNJ, portants, coiffeuse à miroir, plusieurs tatouages à la fois.",
+      "en": "First release: fitting room, outfits, NPC clothes, clothing racks, vanity mirror, several tattoos at once."
     }
   }
 }
