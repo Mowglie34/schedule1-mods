@@ -2,10 +2,10 @@
   "format": 1,
   "mods": {
     "JukeTV": {
-      "version": "1.3.6",
+      "version": "1.3.7",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2888?tab=description",
-      "fr": "Égaliseur (Auto, préréglages, basses/médiums/aigus). Son qui te suit en 3D avec ton propre volume. Volume partagé en multi. ◄◄ sur la télé.",
-      "en": "Equalizer (Auto, presets, bass/mids/treble). Follow sound in 3D with your own volume. Shared volume in multiplayer. ◄◄ on the TV."
+      "fr": "Égaliseur plus doux (Auto retiré, Normal par défaut). Premier allumage à 30 % avec son qui monte doucement.",
+      "en": "Softer equalizer (Auto removed, Normal by default). First start at 30% with sound fading in."
     },
     "QuickDelivery": {
       "version": "1.10.0",
