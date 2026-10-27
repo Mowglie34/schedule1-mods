@@ -26,10 +26,10 @@
       "en": "Day shown again on the phone, employee names no longer translated, automatic translation turned off (only the French file is used). New: update notice."
     },
     "StyleUp": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2981?tab=description",
-      "fr": "Première version : cabine d'essayage, tenues, vêtements des PNJ, portants, coiffeuse à miroir, plusieurs tatouages à la fois.",
-      "en": "First release: fitting room, outfits, NPC clothes, clothing racks, vanity mirror, several tattoos at once."
+      "fr": "Coop : les portants et la coiffeuse posés par un autre joueur n'apparaissent plus en horloge et on peut s'en servir.",
+      "en": "Co-op: racks and vanities placed by another player no longer show up as a grandfather clock and can be used."
     }
   }
 }
