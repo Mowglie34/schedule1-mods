@@ -8,10 +8,10 @@
       "en": "Softer equalizer (Auto removed, Normal by default). First start at 30% with sound fading in."
     },
     "QuickDelivery": {
-      "version": "1.11.1",
+      "version": "1.11.2",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2924?tab=description",
-      "fr": "Corrigé : une livraison invisible pouvait bloquer un quai ou un magasin. Nouveau : Options > Dépannage > « Débloquer les livraisons ».",
-      "en": "Fixed: an invisible delivery could block a dock or a shop. New: Options > Troubleshooting > \"Unblock deliveries\"."
+      "fr": "Corrigé : les handlers déchargent de nouveau les camions en entier (bug de la 1.11.1). « Débloquer les livraisons » reste dans Options > Dépannage.",
+      "en": "Fixed: handlers unload trucks fully again (1.11.1 bug). \"Unblock deliveries\" is still in Options > Troubleshooting."
     },
     "SmartPhone": {
       "version": "1.10.6",
