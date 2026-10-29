@@ -8,10 +8,10 @@
       "en": "Softer equalizer (Auto removed, Normal by default). First start at 30% with sound fading in."
     },
     "QuickDelivery": {
-      "version": "1.11.0",
+      "version": "1.11.1",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2924?tab=description",
-      "fr": "Nouveau : onglet Camions (5 camions QuickDelivery à acheter ou louer), grosses commandes en plusieurs camions, vue « Par étagère », multijoueur (files des autres joueurs, droits donnés par l'hôte).",
-      "en": "New: Trucks tab (5 QuickDelivery trucks to buy or rent), big orders split into several trucks, \"By shelf\" view, multiplayer (other players' waiting lines, host permissions)."
+      "fr": "Corrigé : une livraison invisible pouvait bloquer un quai ou un magasin. Nouveau : Options > Dépannage > « Débloquer les livraisons ».",
+      "en": "Fixed: an invisible delivery could block a dock or a shop. New: Options > Troubleshooting > \"Unblock deliveries\"."
     },
     "SmartPhone": {
       "version": "1.10.6",
