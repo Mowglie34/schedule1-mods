@@ -26,10 +26,10 @@
       "en": "Day shown again on the phone, employee names no longer translated, automatic translation turned off (only the French file is used). New: update notice."
     },
     "StyleUp": {
-      "version": "1.0.2",
+      "version": "1.1.0",
       "nexus": "https://www.nexusmods.com/schedule1/mods/2981?tab=description",
-      "fr": "Les habits ne disparaissent plus avec beaucoup de tatouages. Le tatouage « Visage mort » est rangé dans Torse.",
-      "en": "Clothes no longer disappear with many tattoos. The Dead face tattoo is now listed under Chest."
+      "fr": "Ensembles de tatouages, 32 tenues en plus, bouton Discord. Plus de plantage avec beaucoup de tatouages ; garde-robe gardée en invité.",
+      "en": "Tattoo sets, 32 more outfits, Discord button. No more crash with many tattoos; wardrobe kept as a guest."
     }
   }
 }
