@@ -30,6 +30,12 @@
       "nexus": "https://www.nexusmods.com/schedule1/mods/2981?tab=description",
       "fr": "Ensembles de tatouages, 32 tenues en plus, bouton Discord. Plus de plantage avec beaucoup de tatouages ; garde-robe gardée en invité.",
       "en": "Tattoo sets, 32 more outfits, Discord button. No more crash with many tattoos; wardrobe kept as a guest."
+    },
+    "Hyland Skate Hawk": {
+      "version": "1.0.0",
+      "nexus": "https://www.nexusmods.com/schedule1/mods/3101?tab=description",
+      "fr": "Première version : figures, grinds, combos, atelier de Jeff et supports muraux.",
+      "en": "First release: tricks, grinds, combos, Jeff's workshop and wall racks."
     }
   }
 }
